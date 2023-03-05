@@ -5,6 +5,7 @@ using UnityEngine;
 
 namespace XLua.Custom
 {
+    [LuaCallCSharp]
     public class LuaAdvCommandAdapter
     {
         public IAdvCommand advCommand;
