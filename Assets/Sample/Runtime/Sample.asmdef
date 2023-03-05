@@ -1,8 +1,9 @@
 {
-    "name": "XLua.Runtime",
+    "name": "Sample",
     "rootNamespace": "",
     "references": [
-        "GUID:5be81203169fc4ec9a773d76698ca60e"
+        "GUID:5be81203169fc4ec9a773d76698ca60e",
+        "GUID:396f6107f728a4584943959b6c7c4080"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

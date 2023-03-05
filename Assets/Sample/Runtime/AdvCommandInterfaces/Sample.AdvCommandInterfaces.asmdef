@@ -1,9 +1,7 @@
 {
-    "name": "XLua.Runtime",
-    "rootNamespace": "",
-    "references": [
-        "GUID:5be81203169fc4ec9a773d76698ca60e"
-    ],
+    "name": "Sample.AdvCommandInterfaces",
+    "rootNamespace": "Sample.AdvCommandInterfaces",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
